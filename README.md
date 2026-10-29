@@ -6,10 +6,12 @@
 OpenML「diabetes」（version 1，Pima Indians Diabetes），共 768 筆、8 項臨床特徵。 https://www.openml.org/d/37
 
 檔案說明
+
 diabetes_risk_prediction.ipynb：完整程式（含執行結果）
 outputs/：實驗輸出的結果表（CSV）與圖表（PNG）
 
 執行方式
+
 用 Colab 開啟 diabetes_risk_prediction.ipynb Open In Colab
 選擇「執行階段 → 全部執行」，依序執行即可（不需要 GPU）
 
