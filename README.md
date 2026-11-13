@@ -8,7 +8,9 @@ OpenML「diabetes」（version 1，Pima Indians Diabetes），共 768 筆、8 �
 檔案說明
 
 diabetes_risk_prediction.ipynb：期中版（E1–E3）。
+
 diabetes_risk_prediction_v2.ipynb：依評語補做的合併版（E1–E6，含 10 種子、重複交叉驗證、超參數搜尋、SHAP）。
+
 outputs/v2/：強化實驗的輸出（對應表 4-4 至 4-6、圖 4-2、4-3）。
 
 執行方式
