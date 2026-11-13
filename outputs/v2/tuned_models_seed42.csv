@@ -1,0 +1,7 @@
+Model,ClassWeight,CV_AUC_best,BestParams,Accuracy,Precision,Recall,F1,AUC
+LR,none,0.845,"{""C"": 0.0421}",0.695,0.578,0.481,0.525,0.807
+LR,balanced,0.845,"{""C"": 0.3149}",0.734,0.603,0.704,0.65,0.811
+DT,none,0.786,"{""max_depth"": 4, ""min_samples_leaf"": 2}",0.786,0.698,0.685,0.692,0.789
+DT,balanced,0.802,"{""max_depth"": 3, ""min_samples_leaf"": 19}",0.682,0.529,0.852,0.652,0.777
+RF,none,0.841,"{""max_depth"": null, ""max_features"": ""sqrt"", ""min_samples_leaf"": 9, ""n_estimators"": 200}",0.76,0.698,0.556,0.619,0.82
+RF,balanced,0.842,"{""max_depth"": 3, ""max_features"": ""sqrt"", ""min_samples_leaf"": 9, ""n_estimators"": 200}",0.76,0.623,0.796,0.699,0.816

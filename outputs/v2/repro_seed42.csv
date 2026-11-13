@@ -1,0 +1,7 @@
+Model,ClassWeight,Accuracy,Precision,Recall,F1,AUC
+LR,none,0.708,0.6,0.5,0.545,0.813
+LR,balanced,0.734,0.603,0.704,0.65,0.813
+DT,none,0.786,0.698,0.685,0.692,0.789
+DT,balanced,0.708,0.556,0.833,0.667,0.767
+RF,none,0.753,0.682,0.556,0.612,0.812
+RF,balanced,0.76,0.649,0.685,0.667,0.824
